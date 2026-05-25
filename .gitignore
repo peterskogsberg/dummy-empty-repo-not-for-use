@@ -2,3 +2,6 @@
 xxl-frontend-service/
 
 node_modules/
+
+# Local certs / storefront artifacts (not part of meta-repo)
+storefront/
